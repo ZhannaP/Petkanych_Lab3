@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\bin\Debug\netcoreapp3.1\l3.exe
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\bin\Debug\netcoreapp3.1\l3.deps.json
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\bin\Debug\netcoreapp3.1\l3.runtimeconfig.json
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\bin\Debug\netcoreapp3.1\l3.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\bin\Debug\netcoreapp3.1\l3.dll
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\bin\Debug\netcoreapp3.1\l3.pdb
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\obj\Debug\netcoreapp3.1\l3.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\obj\Debug\netcoreapp3.1\l3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\obj\Debug\netcoreapp3.1\l3.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\obj\Debug\netcoreapp3.1\l3.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\obj\Debug\netcoreapp3.1\l3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\obj\Debug\netcoreapp3.1\l3.dll
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\obj\Debug\netcoreapp3.1\l3.pdb
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab3\l3\l3\obj\Debug\netcoreapp3.1\l3.genruntimeconfig.cache
